@@ -1,0 +1,7 @@
+2021-06-04 00:07:45,537 INFO :: Binance Futures Client successfully initialized
+2021-06-04 00:07:47,038 ERROR :: Error while making GET request to /fapi/v1/order: {'code': -2013, 'msg': 'Order does not exist.'} (error code 400)
+2021-06-04 00:07:47,821 ERROR :: Error while making DELETE request to /fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (error code 400)
+2021-06-04 00:08:20,398 INFO :: Binance Futures Client successfully initialized
+2021-06-04 00:08:53,121 INFO :: Binance Futures Client successfully initialized
+2021-06-04 00:11:13,689 INFO :: Binance Futures Client successfully initialized
+2021-06-04 00:12:07,175 INFO :: Binance Futures Client successfully initialized
