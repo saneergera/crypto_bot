@@ -19,6 +19,7 @@ file_handler.setLevel(logging.DEBUG)
 
 logger.addHandler(stream_handler)
 logger.addHandler(file_handler)
+logger.addHandler(file_handler)
 
 
 if __name__ == '__main__':
@@ -28,3 +29,4 @@ if __name__ == '__main__':
 
     root = tk.Tk()
     root.mainloop()
+
